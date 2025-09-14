@@ -11,6 +11,7 @@ Repository ini berisi implementasi **CSRF Protection** dan **Secure Token** tamb
 
 ## 📂 Struktur Folder
 
+
 app/
 ├── Controllers/
 │ └── TokenController.php # Endpoint untuk ambil token CSRF & Secure Token
@@ -27,6 +28,7 @@ app/
 public/
 └── js/
 └── 4z3sToken.js # JS untuk fetch token & inject ke request
+
 
 
 ## ⚙️ Instalasi
