@@ -85,7 +85,4 @@ Validasi dilakukan di Controller menggunakan helper.
 MIT License © 2025 LaOdeSukri
 
 
----
-
-Mau saya **tambahkan contoh implementasi controller `LayananController`** sekalian (supaya ada contoh submit data yang benar-benar validasi token + simpan ke DB)?  
-Itu akan bikin repo-mu bisa langsung dicoba tanpa harus bikin controller baru.
+--
